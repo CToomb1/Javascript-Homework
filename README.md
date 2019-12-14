@@ -1,7 +1,7 @@
 # Javascript-Homework
 This assignment is a basic Password Generator 
 
-I mainly worked with script.js for this homework
+I used html and css for this homework, but mainly focused on script.js 
 
 I was sure to make specific and different (choice, not necessity) variables for the numbers, special characters, upper case letters, and lower case letters. I made them into arrays by using .split
 
@@ -11,6 +11,6 @@ The variable for passwordLength had to be changed into a number by using parseIn
 
 The loop was created to emphasize the amount of times for the character length
 
-At the end of the function, I returned the newPassword with .join(''); to create the actual password, rather than just 
+At the end of the function, I returned the newPassword with .join(''); to create the actual password rather than just 
 
 My Final edit included an added "copy to the clipboard" button and function
